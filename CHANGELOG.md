@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-08)
+
+<section class="features">
+
+### Features
+
+-   [`6b8dac1`](https://github.com/stdlib-js/stdlib/commit/6b8dac1420da9cbaf0df6d357fb772fe4c4dde36) - add C implementation for `stats/base/ndarray/dmediansorted` [(#13912)](https://github.com/stdlib-js/stdlib/pull/13912)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`6b8dac1`](https://github.com/stdlib-js/stdlib/commit/6b8dac1420da9cbaf0df6d357fb772fe4c4dde36) - **feat:** add C implementation for `stats/base/ndarray/dmediansorted` [(#13912)](https://github.com/stdlib-js/stdlib/pull/13912) _(by Atharva Patange)_
 -   [`981720b`](https://github.com/stdlib-js/stdlib/commit/981720b14da698964856967c883c1db26b9f703a) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`ddc2020`](https://github.com/stdlib-js/stdlib/commit/ddc2020894f672547e4101425bf5f609dcabf634) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
@@ -26,9 +37,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Atharva Patange
 -   Karan Anand
 -   Neeraj Pathak
 
